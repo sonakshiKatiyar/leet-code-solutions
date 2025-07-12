@@ -1,4 +1,4 @@
-package DataStructures.graphs;
+package org.com.sonakshi.graph;
 
 import java.util.*;
 
